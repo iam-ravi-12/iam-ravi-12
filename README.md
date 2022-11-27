@@ -102,7 +102,10 @@ OS = ["Ubuntu", "Windows", "Kali Linux", "Ubuntu Unity", "KUbuntu", "Arch"]
   
 [![Ravi's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=raviranjan&&theme=react-dark)](https://github.com/iam-ravi-11)
   
-![snake gif](https://github.com/iam-ravi-11/iam-ravi-11/blob/output/github-contribution-grid-snake.gif)
+<p align="center" style='margin: 8px 4px;'>
+    <img src="https://github.com/iam-ravi-11/iam-ravi-11/blob/output/github-contribution-grid-snake.svg" alt="utkarsh pathrabe stats snake" />
+</p>
+  
 
 #
 
