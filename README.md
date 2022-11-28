@@ -72,6 +72,8 @@ OS = ["Ubuntu", "Windows", "Kali Linux", "Ubuntu Unity", "KUbuntu", "Arch"]
 <!-- <a href="https://www.hackerrank.com/adityaseth_cse" alt="Aditya Seth | HackerRank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"> -->
 <!-- <a href="https://www.cloudskillsboost.google/public_profiles/b8eb9de8-382a-4ff8-9088-7ea496aac45d" alt="Aditya Seth | Google Cloud Skills"><img src="https://img.icons8.com/fluency/48/000000/google-cloud.png"> -->
 <!-- <a href="https://www.quora.com/profile/Aditya-Seth-133?ch=10&oid=1734427191&share=5335f444&srid=hzXNBO&target_type=user" alt="Aditya Seth | Quora"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-quora-is-a-question-and-answer-website-where-questions-are-asked-logo-shadow-tal-revivo.png"/> -->
+
+<a href="https://leetcode.com/iam_ravi_11/" alt="iam_ravi_11 | Quora"><img src="https://img.icons8.com/color/48/000000/gdsc.png"/></div>
 <a href="https://auth.geeksforgeeks.org/user/iam_ravi_11" alt="iam_ravi_11 | Quora"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png"/></div>
 
 ### Statistics :  
