@@ -18,8 +18,8 @@ OS = ["Ubuntu", "Windows", "Kali Linux", "Ubuntu Unity", "KUbuntu", "Arch"]
 ```
 <!-- <div align=center>
   
-[![coding speed x 1000](/images/187495.gif)](https://github.com/AdityaSeth777)
-</div> !-->
+[![coding speed x 1000](/images/187495.gif)](https://github.com/iam-ravi-11)
+</div> -->
 
   
 ### Wanna listen to what I am listening to ? :)  
@@ -73,9 +73,11 @@ OS = ["Ubuntu", "Windows", "Kali Linux", "Ubuntu Unity", "KUbuntu", "Arch"]
 <!-- <a href="https://www.cloudskillsboost.google/public_profiles/b8eb9de8-382a-4ff8-9088-7ea496aac45d" alt="Aditya Seth | Google Cloud Skills"><img src="https://img.icons8.com/fluency/48/000000/google-cloud.png"> -->
 <!-- <a href="https://www.quora.com/profile/Aditya-Seth-133?ch=10&oid=1734427191&share=5335f444&srid=hzXNBO&target_type=user" alt="Aditya Seth | Quora"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-quora-is-a-question-and-answer-website-where-questions-are-asked-logo-shadow-tal-revivo.png"/> -->
 
-<a href="https://leetcode.com/iam_ravi_11/" alt="iam_ravi_11 | Quora"><img src="https://img.icons8.com/color/48/000000/gdsc.png"/></div>
+<a href="https://leetcode.com/iam_ravi_11/" alt="iam_ravi_11 | leetcode"><img src="https://raw.githubusercontent.com/iam-ravi-11/iam-ravi-11/leetcode-png/svg/leetcode.png" style="margin:10px 10px 10px 10px"/>
 <a href="https://auth.geeksforgeeks.org/user/iam_ravi_11" alt="iam_ravi_11 | Quora"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png"/></div>
 
+</div>
+  
 ### Statistics :  
 <div align="center">
    <a href="https://github.com/iam-ravi-11">
