@@ -104,7 +104,7 @@ OS = ["Ubuntu", "Windows", "Kali Linux", "Ubuntu Unity", "KUbuntu", "Arch"]
 
 [![@ravi's Holopin board](https://holopin.me/iamravi11)](https://holopin.io/@iamravi11)
   
-[![Ravi's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=iam-ravi-11&&theme=react-dark)](https://github.com/iam-ravi-11)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=iam-ravi-11&theme=react-dark&hide_border=true&area=true)
   
 <p align="center" style='margin: 8px 4px;'>
     <img src="https://github.com/iam-ravi-11/iam-ravi-11/blob/output/github-contribution-grid-snake.svg" alt="utkarsh pathrabe stats snake" />
