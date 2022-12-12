@@ -10,7 +10,7 @@ jobs:
     steps:
   
       - name: Personal metrics
-        uses: iam-ravi-11/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
           token: ${{ secrets.MATRICES_TOKEN }}
@@ -63,7 +63,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:      
       - name: Personal metrics (detailed)
-        uses: iam-ravi-11/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.detailed.svg
           token: ${{ secrets.MATRICES_TOKEN }}
