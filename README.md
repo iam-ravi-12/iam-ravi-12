@@ -106,7 +106,9 @@ OS = ["Ubuntu", "Windows", "Kali Linux", "Ubuntu Unity", "KUbuntu", "Arch"]
   
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=iam-ravi-11&theme=react-dark&hide_border=true&area=true)
   
-<p align="center" style='margin: 8px 4px;'>
+![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
+
+<p align="left" style='margin: 8px 4px;'>
     <img src="https://github.com/iam-ravi-11/iam-ravi-11/blob/output/github-contribution-grid-snake.svg" alt="utkarsh pathrabe stats snake" />
 </p>
   
