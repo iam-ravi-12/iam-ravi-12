@@ -26,7 +26,8 @@ OS = ["Ubuntu", "Windows", "Kali Linux", "Ubuntu Unity", "KUbuntu", "Arch"]
 
 <div align=center> 
   
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vw7gah4pkpssp3y4m2y2nk7yeq&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31vw7gah4pkpssp3y4m2y2nk7yeq&redirect=true)
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vw7gah4pkpssp3y4m2y2nk7yeq&cover_image=true&theme=compact&show_offline=true&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=31vw7gah4pkpssp3y4m2y2nk7yeq&redirect=true)
   
 </div>
 
