@@ -116,6 +116,7 @@ OS = ["Ubuntu", "Windows", "Kali Linux", "Ubuntu Unity", "KUbuntu", "Arch"]
 #
  [![iam-ravi-12's GitHub | Stats](https://stats.quine.sh/iam-ravi-12/github?theme=dark)](https://quine.sh)
   [![iam-ravi-12's GitHub | Languages Over Time](https://stats.quine.sh/iam-ravi-12/languages-over-time?theme=dark)](https://quine.sh)
+  [![iam-ravi-12's GitHub | Dependencies](https://stats.quine.sh/iam-ravi-12/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=iam-ravi-12)
   #
   
 <p align="center">
