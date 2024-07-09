@@ -139,6 +139,9 @@ OS = ["Ubuntu", "Windows", "Kali Linux", "Ubuntu Unity", "KUbuntu", "Arch"]
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-ravi-12&langs_count=12&exclude_repo=raviranjan.github.io&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="iam-ravi-12" /></p>
 
 </div>
+
+
+<img src="https://raw.githubusercontent.com/iam-ravi-12/iam-ravi-12/output/snake.svg" alt="Snake animation" />
   
   
 <div align=center>            
