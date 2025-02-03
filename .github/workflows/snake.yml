@@ -21,8 +21,9 @@ jobs:
       - name: generate snake.svg
         uses: Platane/snk@v3.2.0
         with:
-          github_user_name: ${{ secrets.GITHUB_TOKEN }}
-          outputs: dist/snake.svg?palette=github-dark
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/github-snake-dark.svg?palette=github-dark
+          
 
 
       - name: generate-snake-game-from-github-contribution-grid
