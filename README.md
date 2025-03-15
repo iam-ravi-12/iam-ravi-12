@@ -160,10 +160,6 @@ OS = ["Ubuntu", "Windows", "Kali Linux", "Ubuntu Unity", "KUbuntu", "Arch"]
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=iam-ravi-12&theme=react-dark&hide_border=true&area=true)
   
 ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
-
-<p align="left" style='margin: 8px 4px;'>
-    <img src="https://github.com/iam-ravi-12/iam-ravi-12/blob/output/github-contribution-grid-snake.svg" alt="utkarsh pathrabe stats snake" />
-</p>
   
 #
  [![iam-ravi-12's GitHub | Stats](https://stats.quine.sh/iam-ravi-12/github?theme=dark)](https://quine.sh)
